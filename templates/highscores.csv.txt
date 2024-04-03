@@ -1,0 +1,10 @@
+имя:		счет:	
+	artem		103
+	Samanta		56
+	rebecca		56
+	Valerianka		45
+	Artur		25
+	Jgon		12
+	mandarin		9
+	Anna		8
+	Semen		3
